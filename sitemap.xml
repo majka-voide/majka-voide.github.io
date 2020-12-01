@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://majka-voide.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-11-23T16:46:56+01:00</lastmod>
+    <loc>https://majka-voide.github.io/about/</loc>
+    <lastmod>2020-12-01T21:28:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://majka-voide.github.io/posts/accompagnement-soins/</loc>
+    <lastmod>2020-12-01T21:10:06+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://majka-voide.github.io/</loc>
-    <lastmod>2020-11-23T16:46:56+01:00</lastmod>
+    <lastmod>2020-12-01T21:10:06+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://majka-voide.github.io/posts/</loc>
+    <lastmod>2020-12-01T21:10:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://majka-voide.github.io/posts/jouer-pour-ameliorer-sa-vie/</loc>
     <lastmod>2020-11-23T16:46:56+01:00</lastmod>
   </url>
   

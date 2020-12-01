@@ -6,13 +6,33 @@
     <description>Recent content on Laboratoire de Veille Technologique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-CH</language>
-    <lastBuildDate>Mon, 23 Nov 2020 16:46:56 +0100</lastBuildDate><atom:link href="https://majka-voide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:10:06 +0100</lastBuildDate><atom:link href="https://majka-voide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://majka-voide.github.io/about/</link>
+      <pubDate>Tue, 01 Dec 2020 21:28:39 +0100</pubDate>
+      
+      <guid>https://majka-voide.github.io/about/</guid>
+      <description>Je m&amp;rsquo;appelle Majka Voide, et je suis étudiante en 3ème année d&amp;rsquo;Ingénierie des médias. Dans le cadre du cours &amp;ldquo;Laboratoire de veille technologique&amp;rdquo; de mon cursus, il nous a été demandé de créer un blog portant sur un sujet en lien avec les innovations technologiques.
+La thématique de ce blog Suite au résultat de mon profil Ikigai c’est sans surprise que j’ai découvert qu’il m’a été attribué l’étiquette d’organisateur altruiste accompagnée d’autres qualités me caractérisant parfaitement.</description>
+    </item>
+    
+    <item>
+      <title>Accompagner les malades chroniques par le jeu</title>
+      <link>https://majka-voide.github.io/posts/accompagnement-soins/</link>
+      <pubDate>Tue, 01 Dec 2020 21:10:06 +0100</pubDate>
+      
+      <guid>https://majka-voide.github.io/posts/accompagnement-soins/</guid>
+      <description>En 2019, la start-up Pillo Health basée à Boston a développé Pria, un robot domestique qui aide ses patients à prendre leurs médicaments.
+ Une intelligence artificielle comme assistant de soin ? Créé initialement pour aider les personnes victimes de maladies chroniques à maintenir leur médication au bon dosage et rester en bonne santé, le robot est un réel atout autant pour les patients que pour les spécialistes du corps médical.</description>
+    </item>
+    
     <item>
       <title>Améliorer sa vie en jouant : Le monde de demain ?</title>
-      <link>https://majka-voide.github.io/posts/my-first-post/</link>
+      <link>https://majka-voide.github.io/posts/jouer-pour-ameliorer-sa-vie/</link>
       <pubDate>Mon, 23 Nov 2020 16:46:56 +0100</pubDate>
       
-      <guid>https://majka-voide.github.io/posts/my-first-post/</guid>
+      <guid>https://majka-voide.github.io/posts/jouer-pour-ameliorer-sa-vie/</guid>
       <description>La gamification, c’est l’incorporation de mécanismes issus du jeu dans des éléments qui ne sont pas ludiques à la base. C’est ajouter du jeu dans un contexte qui n’est pas un jeu pour résoudre des problèmes ou améliorer une offre internet .
  Ainsi est définie cette notion apparue pour la première fois en 2011 dans le dictionnaire Oxford.
 Qu&amp;rsquo;est-ce que la gamification Pour faire très simple, le principe peut se résumer dans l’anagrame BLAP : Bonuses, Levels, Achievements et Points.</description>
